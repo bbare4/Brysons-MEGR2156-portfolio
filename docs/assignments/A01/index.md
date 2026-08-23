@@ -35,7 +35,11 @@ In photo 2, the yellow pressing part extends past the pivot and down toward the 
 
 <img width="500" height="500" alt="IMG_8369" src="https://github.com/user-attachments/assets/e52e0790-f16e-4752-b40f-9b0e442aad0e" /> 
 
-In photo 3, you will see a metal spring coiled around the pivot wedge between the two sides of the clothespin. The coiled geometry allows the spring to twist when force is applied, letting the jaws of the clothespin open. When the user releases the clothespin, the spring returns the two sides and closes the jaws.
+In photo 3, you will see a metal spring coiled around the pivot wedge between the two sides of the clothespin. The coiled geometry lets the spring twist when force is applied, allowing the jaws of the clothespin to open. When the user releases the clothespin, the spring returns the two sides and closes the jaws.
+
+While doing my patent research, I found two different products that solve the same primary function as a clothespin. The first product is a binder clip, which uses spring force and two metal jaws to clamp onto and hold objects, such as sheets of paper. The other product is a spring clamp, which also uses a spring-loaded mechanism and opposing jaws to clamp down and hold items, but it is more commonly found in construction and woodworking. For example, you would use a spring clamp if you needed to hold two pieces of wood together while you waited for wood glue to dry, or to hold materials together during assembly.
+
+One design decision the engineers made was adding grooves to the inside surface of the jaws. I think the grooves were added to improve grip between the jaws and the object being held. The grooves create an uneven contact surface when the jaws are closed, making it harder for objects to slide out of the jaws. This feature allows the clothespin to hold objects more securely when the spring applies clamping force.
 
 
 
