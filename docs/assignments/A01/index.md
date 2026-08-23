@@ -1,5 +1,6 @@
 # A1 – [Build Your Professional Portfolio]
 Portfolio Analysis 
+
 Website 1 - Luke DeVries
 
 Navigability: This portfolio is organized so the reader can locate any assignment without searching through unrelated pages. The "Analysis of an Everyday Object" heading clearly marks where the stapler analysis begins and where his student introduction ends. Within his analysis, multiple photographs and descriptions make it easy to locate the information about the stapler's components. 
