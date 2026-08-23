@@ -3,7 +3,7 @@ Portfolio Analysis
 
 Website 1 - Luke DeVries
 
-Navigability: This portfolio is organized so the reader can locate any assignment without searching through unrelated pages. The "Analysis of an Everyday Object" heading clearly marks where the stapler analysis begins and where his student introduction ends. Within his analysis, multiple photographs and descriptions make it easy to locate the information about the stapler's components. 
+**Navigability**: This portfolio is organized so the reader can locate any assignment without searching through unrelated pages. The "Analysis of an Everyday Object" heading clearly marks where the stapler analysis begins and where his student introduction ends. Within his analysis, multiple photographs and descriptions make it easy to locate the information about the stapler's components. 
 
 Reproducibility: This portfolio provided a large amount of information about how the stapler is constructed and how the stapler functions. This student included photos of the magazine, clinching anvil, body, and other features, and then explained how each part operates. The student then discusses possible manufacturing processes, such as metal forming and injection molding. However, I don't believe another engineer could reproduce the stapler from this document because it doesn't provide exact dimensions, material specifications, tolerances, or manufacturing drawings, which are crucial for reproducing the product.
 
