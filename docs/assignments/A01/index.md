@@ -25,7 +25,7 @@ Product Analysis - Clothespin
 
 The clothespin is an object many people use day-to-day. The primary function of a clothespin is to apply a clamping force between its two opposing jaws to tightly secure an object. When you apply force to the handles, the jaws open around the pivot point. You could describe this action using the formula M = Fd, where M is the moment about the pivot, F is the force applied to the handles, and d is the perpendicular distance from the pivot point to where the force is being applied at the handle. When you release the handles, the spring forces the jaws back together, creating the clamping force that is required to hold objects in place. This model assumes the two halves of the clothespin act as rigid bodies and cannot bend when force is applied.
 
-<img width="450" height="450" alt="IMG_8367" src="https://github.com/user-attachments/assets/49a85079-efa7-4d1c-9381-ac7d1a1475e6" />
+Photo 1: <img width="450" height="450" alt="IMG_8367" src="https://github.com/user-attachments/assets/49a85079-efa7-4d1c-9381-ac7d1a1475e6" />
 
 
 
