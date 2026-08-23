@@ -27,15 +27,15 @@ The clothespin is an object many people use day-to-day. The primary function of 
  
 <img width="500" height="500" alt="IMG_8367" src="https://github.com/user-attachments/assets/49a85079-efa7-4d1c-9381-ac7d1a1475e6" /> 
 
-Photo 1: In photo 1, you can see that the solid yellow area on which you press down is wide and round, giving the user a larger area to apply force. The clamp is also wider at the end, providing more surface area to hold whatever object you are grabbing and creating a more secure clamp.
+In photo 1, you can see that the solid yellow area on which you press down is wide and round, giving the user a larger area to apply force. The clamp is also wider at the end, providing more surface area to hold whatever object you are grabbing and creating a more secure clamp.
 
 <img width="500" height="500" alt="IMG_8368" src="https://github.com/user-attachments/assets/277ceeb2-f450-4f4b-965e-bdb1a1681b82" /> 
 
-Photo 2: In photo 2, it shows how the yellow pressing part extends past the pivot and down towards the gripping end of the clothespin. The body will then rotate around the pivot when force is applied to the solid yellow area, opening the jaws. The distance between the solid yellow area and the pivot allows the clothespin to act as a lever, while the other end forms the jaws that clamp onto an object when the clothespin is closed.
+In photo 2, the yellow pressing part extends past the pivot and down toward the gripping end of the clothespin. The body will then rotate around the pivot when force is applied to the solid yellow area, opening the jaws. The distance between the solid yellow area and the pivot allows the clothespin to act as a lever, while the other end forms the jaws that clamp onto an object when the clothespin is closed.
 
 <img width="500" height="500" alt="IMG_8369" src="https://github.com/user-attachments/assets/e52e0790-f16e-4752-b40f-9b0e442aad0e" /> 
 
-Photo 3: In photo 3, you will see a metal spring coiled around the pivot wedge between the two sides of the clothespin. The coiled geometry allows the spring to twist when force is applied, letting the jaws of the clothespin open. When the user releases the clothespin, the spring returns the two sides and closes the jaws.
+In photo 3, you will see a metal spring coiled around the pivot wedge between the two sides of the clothespin. The coiled geometry allows the spring to twist when force is applied, letting the jaws of the clothespin open. When the user releases the clothespin, the spring returns the two sides and closes the jaws.
 
 
 
