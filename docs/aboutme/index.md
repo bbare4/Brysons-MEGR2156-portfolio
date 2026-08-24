@@ -13,3 +13,5 @@ Since I have been studying engineering, I have been working every day to develop
 My dream is to become an engineer capable of tackling difficult problems and offering valuable ideas to a team. The more education and experience I acquire, the more confident I want to become in my engineering decisions and the skills I want to develop in order to turn my ideas into practical real-world solutions.
 
 # What does it mean to defend an engineering decision?
+
+I believe that defending an engineering decision means being able to explain why you made a certain decision and then support that choice with all of the evidence and reasoning that went into making it. For example, if you were designing a part and you decided to make it out of aluminum instead of steel and someone asks, "Why did you make that out of aluminum instead of steel?" you should be able to list all of the reasons that justify why you chose that material and the benefit it creates over steel.
