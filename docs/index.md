@@ -6,7 +6,7 @@ This website records the engineering design decisions I made during MEGR 2156. E
 
 > **Engineering is the art of making decisions you can defend.**
 
-## The three pillars
+## The Three Pillars
 
 Most assignment pages are organized around:
 
