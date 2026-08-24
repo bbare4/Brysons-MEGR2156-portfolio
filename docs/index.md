@@ -10,7 +10,7 @@ This website records the engineering design decisions I made during MEGR 2156. E
 
 Most assignment pages are organized around:
 
-- <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/f38683d9-eaa3-4c0f-b83a-eea6bac505ac" /> — the calculations, models, and data behind your design.
+- <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/f38683d9-eaa3-4c0f-b83a-eea6bac505ac" /> — the calculations, models, and data behind your design.
 - **Decide** — the choice you made and, critically, the reasoning for it.
 - **Communicate** — the drawings, report, and presentation you'd hand to a client.
 
