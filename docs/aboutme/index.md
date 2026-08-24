@@ -14,7 +14,7 @@ My dream is to become an engineer capable of tackling difficult problems and off
 
 # What does it mean to defend an engineering decision?
 
-I believe that defending an engineering decision means being able to explain why you made a certain decision and then support that choice with all of the evidence and reasoning that went into making it. For example, if you were designing a part and you decided to make it out of aluminum instead of steel and someone asks, "Why did you make that out of aluminum instead of steel?" you should be able to list all of the reasons that justify why you chose that material and the benefit it creates over steel.
+I believe that defending an engineering decision means being able to explain why you made a certain decision and then support that choice with all of the evidence and reasoning that went into making it. For example, if you were designing a part and you decided to make it out of aluminum instead of steel and someone asks, "Why did you make that out of aluminum instead of steel?" you should be able to list all of the reasons that justify why you chose that material and the benefit it creates over steel. I know what defending and engineering change means, but I'm not sure I can give strong enough explanations for why I make certain decisions.
 
 # Time Spent
 
