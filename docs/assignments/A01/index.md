@@ -1,5 +1,5 @@
 # A1 – [Build Your Professional Portfolio]
-## Portfolio Analysis ## 
+## Portfolio Analysis  
 
 ## Website 1 - Luke DeVries
 
