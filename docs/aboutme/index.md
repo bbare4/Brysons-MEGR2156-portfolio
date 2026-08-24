@@ -11,3 +11,5 @@ What attracted me about mechanical engineering is that it brings together a numb
 Since I have been studying engineering, I have been working every day to develop myself into a reliable, diligent and well-informed engineer. My aim is to continue improving my abilities in CAD, manufacturing, design, problem-solving and working as part of a team. At the same time, I am realizing that being an engineer involves more than just being able to solve problems, since it is also necessary to have the skills to defend any decisions you take.
 
 My dream is to become an engineer capable of tackling difficult problems and offering valuable ideas to a team. The more education and experience I acquire, the more confident I want to become in my engineering decisions and the skills I want to develop in order to turn my ideas into practical real-world solutions.
+
+# What does it mean to defend an engineering decision?
