@@ -14,7 +14,7 @@ Most assignment pages are organized around:
 - **Decide** — the choice you made and, critically, the reasoning for it.
 - **Communicate** — the drawings, report, and presentation you'd hand to a client.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/0da8ff06-0731-4179-a3ba-fd670ff46c1c" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/0da8ff06-0731-4179-a3ba-fd670ff46c1c" />
 
 
 Use the navigation on the left to move between assignments.
