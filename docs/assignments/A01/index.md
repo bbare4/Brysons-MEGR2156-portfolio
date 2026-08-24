@@ -51,6 +51,10 @@ While doing my patent research, I found two different products that solve the sa
 
 One design decision the engineers made was adding grooves to the inside surface of the jaws. I think the grooves were added to improve grip between the jaws and the object being held. The grooves create an uneven contact surface when the jaws are closed, making it harder for objects to slide out of the jaws. This feature allows the clothespin to hold objects more securely when the spring applies clamping force.
 
+# Time spent
+
+6 hours
+
 
 
 
