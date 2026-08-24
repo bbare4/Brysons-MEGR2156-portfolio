@@ -51,6 +51,16 @@ While doing my patent research, I found two different products that solve the sa
 
 One design decision the engineers made was adding grooves to the inside surface of the jaws. I think the grooves were added to improve grip between the jaws and the object being held. The grooves create an uneven contact surface when the jaws are closed, making it harder for objects to slide out of the jaws. This feature allows the clothespin to hold objects more securely when the spring applies clamping force.
 
+# Decide
+
+**Homepage Identity**- I changed the introduction paragraph on my homepage to better emphasize the level and quality of work that will be included in my portfolio throughout the semester. The original introduction explained the purpose of the portfolio, but I wanted the updated version to give a clearer understanding of what can be expected from my work. I added information explaining that my assignments will follow the Analyze, Decide, Communicate structure. I will also be using calculations, evidence, testing, and engineering principles to support my decisions throughout the semester. I  emphasized that each entry will be held to a high standard of clarity, organization, and professionalism. This change made it clear that the portfolio will show more than just completed projects. It will document the reasoning behind all of my engineering decisions throughout the year and demonstrate the development and improvement of my engineering work throughout the semester.
+
+**One Intentional Customization**- The one intentional design change was having AI create a picture to illustrate the three pillars we will use throughout the semester. I also added the photo to lighten the intro so it didn't feel so wordy and to add a little more color.
+
+**My Documentation Standard** - My standard for every assignment is to produce an accurate, detailed, and professional engineering document that demonstrates my best work and is worthy of a high grade.
+
+
+
 # Time spent
 
 6 hours
