@@ -24,6 +24,9 @@ I started at B because the support reaction was unknown and it had only 2 unknow
 <img width="580" height="493" alt="image" src="https://github.com/user-attachments/assets/277baa16-0a37-4551-b08c-b28473d1b7d6" />
 
 ### Joint C
+For joint C, I started by solving for the length of AC, which was 0.8544 m. I then used this length to find my direction ratios for my sum of forces:e cosθ = 0.9363 and sinθ = 0.3511. Using these components, I used my sum-of-forces equation to get AC = -47.47 kN and CD = 33.333 kN. The negative AC result just means that the member is in compression based on the assumed force direction when making the FDB.  This force becomes the largest member force in my work, so it will control member sizing later in the design.
+
+<img width="580" height="493" alt="image" src="https://github.com/user-attachments/assets/16f0b702-2176-4ac8-bfc7-7ac7fde59a32" />
 
 
 
