@@ -28,6 +28,47 @@ For joint C, I started by solving for the length of AC, which was 0.8544 m. I th
 
 <img width="580" height="493" alt="image" src="https://github.com/user-attachments/assets/16f0b702-2176-4ac8-bfc7-7ac7fde59a32" />
 
+### Joint D
+For Joint D, I just used my sum of forces to find the last member for DA, which equaled 41.67 kN. I now have all the member force information I need to begin stress-based sizing.
+
+<img width="580" height="493" alt="image" src="https://github.com/user-attachments/assets/16148330-46c5-499c-96d7-5b68d6a27458" />
+
+# Selecting the Critical Member
+As I mentioned earlier, the controlling member in my analysis is AC at 47.47 kN in compression. The known parameter values we received are a safety factor of 3.5, a yield strength of 345 MPa, and a density of 7850 kg/m³. Below I will list all of the knowns and unknowns:
+
+<img width="580" height="493" alt="image" src="https://github.com/user-attachments/assets/48d78381-a292-4498-9d3b-86567a1c96e0" />
+
+# Minimum Member Cross-sectional Area
+When it came to solving for my cross-sectional area, I used the normal stress relationship σ = F/A and the defined allowable stress factor using the safety factor that was given , σallow = σy/N. I then rearranged the equations to give me Amin ≥ NFmax / σy.
+
+<img width="580" height="493" alt="image" src="https://github.com/user-attachments/assets/675c19dd-f760-4b73-9dc5-6b0562d34a4c" />
+
+I then used these formulas to solve for my Amin = 4.816×10^−4 m² or 481.6 mm²
+
+<img width="700" height="493" alt="image" src="https://github.com/user-attachments/assets/55626b0d-7ac8-4a17-ba39-a04ff6069599" />
+
+# Estimating Truss Member Weight
+I added all of the member lengths shown in my worksheet: AB = 1.20m, BC = 0.50m, CD = 0.40m, DA = 0.50m, and AC = 0.8544m. The total length after adding all of these up was 3.2544m. I then used V = AL to find the volume, and m = pV to find the mass of the truss. I also used W = mg if I needed the weight force. My values for these records were V = 0.001664 m³, m = 13.06 kg, and a final member weight of 128.1 N or 28.8 ibf.
+
+<img width="640" height="558" alt="image" src="https://github.com/user-attachments/assets/53f852cc-67be-4236-b0ae-c87395e13f29" />
+
+# Pin Shear Analysis
+The pins are sized using shear stress rather than normal stress. For my calculations, I used the largest support reaction rather than the largest internal member force. The recorded values are 8.33 kN = 1.873 kip, shear strength 170 ksi, safety factor N = 4, density 0.278 lb/in^3, and one shear plane. Below is me solving for this symbolically:
+
+<img width="793" height="382" alt="image" src="https://github.com/user-attachments/assets/b803d62e-59cd-4c5f-a8a0-1bd6baa15a58" />
+
+Below is me solving for this numerically: 
+
+<img width="537" height="600" alt="image" src="https://github.com/user-attachments/assets/bd1afd77-d81c-4820-82ac-992f818e919c" />
+
+
+
+
+
+
+
+
+
 
 
 
