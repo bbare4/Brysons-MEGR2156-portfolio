@@ -94,6 +94,22 @@ After doing some basic math, I learned that the percent error between the hand-c
 
 <img width="646" height="384" alt="image" src="https://github.com/user-attachments/assets/2d326d48-1dc1-49f0-b711-980f1956ccc4" />
 
+Here is the final truss, all put together: 
+
+<img width="2560" height="1416" alt="image" src="https://github.com/user-attachments/assets/b8fdaa5f-42fc-46eb-a912-af6c6905b7b8" />
+
+The downloadable links for the CAD model will be submitted inside of a PDF into canvas.
+
+# Engineering Lessons Learned: 
+
+One main engineering lesson that I really learned while doing this project over the last 4 days is time management. After doing the math portion of this assignment, I underestimated the 3d modeling section and focused on other assignments, pushing this to the last minute. If I had started this much earlier, I wouldn't have felt so rushed and anxious to finish the night before. One of the major problems I faced was putting the pins into the joints, which sounds easy, but for some reason it gave me trouble. Both situations made me rush and finish everything the night before, but it was a good lesson for future assignments.
+
+This assignment took me about 11 hours to finish.
+
+
+
+
+
 
 
 
