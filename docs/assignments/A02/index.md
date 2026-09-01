@@ -61,6 +61,50 @@ Below is me solving for this numerically:
 
 <img width="537" height="600" alt="image" src="https://github.com/user-attachments/assets/bd1afd77-d81c-4820-82ac-992f818e919c" />
 
+# CAD Model of Truss System
+After completing my analysis and determining the dimensions of the truss members and pins, I began creating the 3D truss model in SolidWorks. To start my CAD model, I used the line tool to create the outline for my truss body. After that, I extruded the lines to create the 3D version of my 2D model.
+
+<img width="2036" height="1026" alt="image" src="https://github.com/user-attachments/assets/d4c4effc-a238-408f-80ca-6c0c23f4491f" />
+
+Next, I spent a few minutes coming up with different ways to design where the pins would go and how to connect the trusses. Below are some of the early designs I came up with while modeling the pin joints for these trusses. The design that I ended up using for my trusses is the circular one that you can see in the top left. I felt like that best represented the joints while keeping the pin distance within the parameters.
+
+<img width="1376" height="1032" alt="NBMetadataCache" src="https://github.com/user-attachments/assets/0aa881c6-5cc7-4818-89ce-37b729a32480" />
+
+After deciding to add the circular joint, I spent some time in SolidWorks installing it on the truss system, as you can see below.
+
+<img width="2102" height="1270" alt="image" src="https://github.com/user-attachments/assets/848e8ee4-f050-4599-abed-5f71921e81aa" />
+
+After creating the truss joints, I knew it was time to start working on the pins that would hold it all together. I started with a circle with a diameter of 0.0635m. Then I extruded the circle 0.022 m, the same depth as the trusses, to give a smooth finish when the pin is inserted. Below is the finished pin with the measurements.
+
+<img width="1448" height="1092" alt="image" src="https://github.com/user-attachments/assets/652cb7a6-a318-4580-8fa7-18b468e0d160" />
+
+Now it was time for me to install the pins into the joints to secure the trusses together. I had to add each pin into an assembly with the main truss. Once the pin was in the assembly, I used a feature called Mate in SolidWorks that allowed me to easily install the pins into the holes. As you can see below: 
+
+<img width="2550" height="1416" alt="image" src="https://github.com/user-attachments/assets/84f5aa2b-1ed2-4a08-ae26-844b7d454345" />
+
+Now all I have left to do is have SolidWorks calculate the truss weight and compare it to my own. When selecting materials for my truss, A500 structural steel wasn't an option, but ASTM A36 steel was, and it's extremely similar to A500. For my pins, I had to use AISI type A2 tool steel, which has very similar numbers to the steel I used in my problems.
+
+<img width="1630" height="1306" alt="image" src="https://github.com/user-attachments/assets/91ac18f9-86cb-4131-8233-02f6489578eb" />
+
+After SolidWorks measured the weight of the truss, it said it weighs 12.83 kg, which is very close to the value I solved for in my hand calculations (13.06 kg). Below are the hand calculations for when I solved for truss weight :
+
+<img width="734" height="496" alt="image" src="https://github.com/user-attachments/assets/ba001666-7baa-4915-9f3d-db8301f6c7b4" />
+
+After doing some basic math, I learned that the percent error between the hand-calculated weight and the SolidWorks weight was only 1.76%.
+
+<img width="646" height="384" alt="image" src="https://github.com/user-attachments/assets/2d326d48-1dc1-49f0-b711-980f1956ccc4" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
