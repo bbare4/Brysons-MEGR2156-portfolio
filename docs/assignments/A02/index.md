@@ -98,7 +98,9 @@ Here is the final truss, all put together:
 
 <img width="2560" height="1416" alt="image" src="https://github.com/user-attachments/assets/b8fdaa5f-42fc-46eb-a912-af6c6905b7b8" />
 
-The downloadable links for the CAD model will be submitted inside of a PDF into canvas.
+The downloadable links for the CAD model will be submitted inside a PDF into Canvas and will be on this Google Drive: 
+
+[Download CAD Files from Google Drive](https://drive.google.com/drive/folders/1akkGbr3GPoff2P-tgb-UEINVovxZqkha?usp=drive_link)
 
 # Engineering Lessons Learned: 
 
