@@ -38,6 +38,13 @@ Next, I ran a simulation to find the deflection curve. The result was 0.009005, 
 
 <img width="2554" height="1462" alt="image" src="https://github.com/user-attachments/assets/90d9eaa7-1856-474f-a8df-de1e6bc92b09" />
 
+#### von Mises Stress Curve:
+
+The von Mises stress curve shows that the beam's yield strength was 3.999e03, indicating a safety factor of 1.47. Since the maximum stress is 2738 psi and is lower than the yield strength of 3999 psi, the beam is within the material's allowable strength. 
+
+<img width="2556" height="1494" alt="image" src="https://github.com/user-attachments/assets/0e117f0d-41d3-4615-b926-d886e581f551" />
+
+
 
 
 
