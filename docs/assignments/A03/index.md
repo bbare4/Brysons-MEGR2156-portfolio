@@ -24,6 +24,16 @@ This is the material I chose to use in SolidWorks and the material value I used 
 
 <img width="1616" height="1358" alt="image" src="https://github.com/user-attachments/assets/283ac8ea-b43d-420d-8bef-160d539dee0b" />
 
+#### FEA Simulation:
+
+For the FEA simulation, I started by fixing one end in place and, at the other end, applied a 500 lb force pulling away from the bar.
+
+<img width="2560" height="1316" alt="image" src="https://github.com/user-attachments/assets/d57b40dd-8267-4339-9701-9d384fb66b43" />
+
+<img width="2548" height="1280" alt="image" src="https://github.com/user-attachments/assets/3ae62e2a-9782-4962-8dc9-7bf1c12a5f7c" />
+
+
+
 
 
 
