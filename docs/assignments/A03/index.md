@@ -32,6 +32,13 @@ For the FEA simulation, I started by fixing one end in place and, at the other e
 
 <img width="2548" height="1280" alt="image" src="https://github.com/user-attachments/assets/3ae62e2a-9782-4962-8dc9-7bf1c12a5f7c" />
 
+#### Deflection Curve:
+
+Next, I ran a simulation to find the deflection curve. The result was 0.009005, which matches the maximum deflection given to me and the deflection I solved for in my hand calculations. 
+
+<img width="2554" height="1462" alt="image" src="https://github.com/user-attachments/assets/90d9eaa7-1856-474f-a8df-de1e6bc92b09" />
+
+
 
 
 
