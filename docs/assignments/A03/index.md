@@ -44,7 +44,16 @@ The von Mises stress curve shows that the beam's yield strength was 3.999e03, in
 
 <img width="2556" height="1494" alt="image" src="https://github.com/user-attachments/assets/0e117f0d-41d3-4615-b926-d886e581f551" />
 
+#### Design Reflection:
 
+The axial deflection that I calculated by hand was 0.00968 in, while the max displacement from SolidWorks FEA was 0.009005 in. The percent difference between these two values is approximately 6.97%.
+The two values I found are relatively close because the bar has a uniform cross section and is subjected to simple axial loading. There were no major changes in the geometry or stress in the original design. The small difference between the two values could be caused by the material properties in SolidWorks.
+For this axial bar, I would trust the hand calculations a little bit more because the bar has a uniform cross-section. The FEA result is still useful because it confirms that the model part behaves very  similarly to the analytical prediction.
+A substantial pinhole was assumed to have a diameter equal to half the width of the bar. For this geometry, a stress factor of 2.16 was used in the calculations. Using the nominal FEA stress of 2738 psi, the estimated peak stress at the hole was 11830 psi. This is way higher than the 3999 psi yield strength of the 1060 aluminum. The resulting safety factor was 0.34, so the design implementing a large pin would no longer pass.
+
+During this assignment, I had just small struggles. My main struggle was figuring out how to run the simulation. It took me about 20 minutes to figure out how to apply the load to one end of the bar. Overall, I would say that this assignment was extremely straightforward and easy to understand. This assignment took me about 3 hours to complete.
+
+[See the CAD model]([./model.pdf](https://drive.google.com/drive/folders/1akkGbr3GPoff2P-tgb-UEINVovxZqkha?usp=drive_link))
 
 
 
