@@ -16,7 +16,13 @@ Appendix B:
 
 ## Feature 1:
 
-hello
+The first step in designing Feature 1 was to determine the minimum height needed to safely support the applied load without exceeding material stress or the maximum allowable deflection. I began by creating a FBD to isolate Feature 1 and determine the forces acting on it so I could calculate the moment. The applied load was 300 N, and I selected a width of 40 mm for Feature 1. The mount material is ABS, with an elastic modulus of approximately 2,000 N/mm^2. A safety factor of 3 was required for the stress calculation, and the maximum allowable deflection was 0.30mm. I then calculated the moment, which gave me a value of 5400 N*mm. The main unknown was the height. I then created known and unknown columns to organize the known information before calculating the unknowns, so I could clearly identify the dimension that needed to be solved.
+
+<img width="2752" height="1832" alt="IMG_0075" src="https://github.com/user-attachments/assets/f8a14d0d-9a4f-4042-9321-b514bee42fcf" />
+
+Now, with all the known and unknown values, I used the bending stress and deflection equations to solve for the required height of the feature. I started by solving both equations symbolically so it would be easy to plug in the numbers. Once I had the equations set up for height, I then substituted all of my known values into the equation and solved for the height. After I found both of the heights for stress and deflection, I compared the two values that I got and selected the larger one to make sure that the feature would meet both the stress and the deflection requirements.
+
+
 
 
 
