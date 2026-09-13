@@ -20,7 +20,10 @@ The first step in designing Feature 1 was to determine the minimum height needed
 
 <img width="2752" height="1832" alt="IMG_0075" src="https://github.com/user-attachments/assets/f8a14d0d-9a4f-4042-9321-b514bee42fcf" />
 
-Now, with all the known and unknown values, I used the bending stress and deflection equations to solve for the required height of the feature. I started by solving both equations symbolically so it would be easy to plug in the numbers. Once I had the equations set up for height, I then substituted all of my known values into the equation and solved for the height. After I found both of the heights for stress and deflection, I compared the two values that I got and selected the larger one to make sure that the feature would meet both the stress and the deflection requirements.
+With all the known and unknown values, I used the bending stress and deflection equations to solve for the required feature height. I started by solving both equations symbolically so it would be easy to plug in the numbers. Once I set up the height equations, I substituted my known values and solved for height. After I found both the stress and deflection values, I compared them and selected the larger one to ensure the feature met both the stress and deflection requirements.
+
+<img width="2752" height="1848" alt="IMG_0076" src="https://github.com/user-attachments/assets/d42ef238-1865-451b-bb1e-dee0a5c45f9d" />
+
 
 
 
