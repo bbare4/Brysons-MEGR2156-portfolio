@@ -20,9 +20,32 @@ The first step in designing Feature 1 was to determine the minimum height needed
 
 <img width="2752" height="1832" alt="IMG_0075" src="https://github.com/user-attachments/assets/f8a14d0d-9a4f-4042-9321-b514bee42fcf" />
 
-With all the known and unknown values, I used the bending stress and deflection equations to solve for the required feature height. I started by solving both equations symbolically so it would be easy to plug in the numbers. Once I set up the height equations, I substituted my known values and solved for height. After I found both the stress and deflection values, I compared them and selected the larger one to ensure the feature met both the stress and deflection requirements.
+With all the known and unknown values, I used the bending stress and deflection equations to solve for the required feature height. I started by solving both equations symbolically so I could easily plug in the numbers. Once I set up the height equations, I substituted my known values and solved for height. After finding both stress and deflection, I compared them and selected the larger value to ensure the feature met both the stress and deflection requirements.
 
 <img width="2752" height="1848" alt="IMG_0076" src="https://github.com/user-attachments/assets/d42ef238-1865-451b-bb1e-dee0a5c45f9d" />
+
+## Feature 2
+
+For feature 2, I first created a free-body diagram and listed all my known and unknown values. Before solving for the required height, I needed to determine the feature's overall length and maximum bending moment. Using the 80 mm plate length and the 13 mm height from feature 1, I found the overall length to be L2 = 93 mm. I then used the applied force of 300 N and the distance from the fixed end to calculate the maximum bending moment, M = 33,300 N/mm. 
+
+<img width="2752" height="1662" alt="IMG_0077" src="https://github.com/user-attachments/assets/91a6d94e-8814-412b-9711-dc3a39a72ebd" />
+
+After finding these values, I used the bending stress and deflection equations to solve for the required height, h2. The next thing that I did was compare the two calculated heights and use the larger values so feature 2 meets both the stress and deflection requirements.
+
+<img width="2752" height="1832" alt="IMG_0078" src="https://github.com/user-attachments/assets/4030bfb5-1c58-4841-a804-8877aa60ea6f" />
+
+## Motor Mount Sketch
+
+<img width="2752" height="1356" alt="IMG_0079" src="https://github.com/user-attachments/assets/791ce275-1d6a-45c5-8173-714c3e4856cc" />
+
+## CAD Modeling of the Motor Mount
+
+
+
+
+
+
+
 
 
 
