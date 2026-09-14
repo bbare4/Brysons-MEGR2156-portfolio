@@ -41,6 +41,61 @@ After finding these values, I used the bending stress and deflection equations t
 ## CAD Modeling of the Motor Mount
 
 
+### Using these values, I created a large rectangle, then extruded away a piece to form the base shape of my motor mount.
+
+
+<img width="2548" height="1492" alt="unnamed" src="https://github.com/user-attachments/assets/f45746f0-8ead-494d-8446-b26caf2e8351" />
+
+
+### Next, I cut the holes the motor would sit in.
+
+
+<img width="2560" height="1516" alt="unnamed" src="https://github.com/user-attachments/assets/55eec781-c287-4b2a-a383-722ab7b2a1ad" />
+
+
+### After I had the holes for where the motor was to sit, I needed to create the bolt/screw holes to secure the motor to the mount to prevent it from falling out.<img 
+
+
+<img width="2560" height="1502" alt="unnamed" src="https://github.com/user-attachments/assets/36762f2d-063d-4176-bcd3-74f36e91d709" />
+
+
+### Next, I needed a plane coincident with the feature 2 face so I could create the four screw/bolt holes to mount this into something, if needed.
+
+
+<img width="2560" height="1504" alt="unnamed" src="https://github.com/user-attachments/assets/81db3353-9bfa-40bd-a334-2ebe2e828da6" />
+
+
+### Once I finished that, I had a complete motor mount, as shown below.
+
+
+<img width="2556" height="1502" alt="unnamed" src="https://github.com/user-attachments/assets/1730199c-219c-418d-84e6-4450c92d51ee" />
+
+## Lesson Learned
+
+One of the things I learned while doing this assignment was how to make faces and new planes coincident so I could create new sketches on top of previous sketches. Once I figured this out, the modeling process became much easier and faster, and I was able to complete the rest of the model more efficiently. I also learned the benefit of using two different equations to find one value and why it's important for designing new things in engineering.
+
+This project took me a total of 8 hours
+
+You can find my part below:
+[Download CAD Model]()
+
+
+## Appendix 
+
+Below are my motor mount inspirations :
+
+[Website 1](https://www.pololu.com/product/2676?utm_source=chatgpt.com)
+
+[Website 2](https://www.penntoolco.com/30799712/)
+
+
+
+
+
+
+
+
+
 
 
 
