@@ -41,6 +41,11 @@ After finding these values, I used the bending stress and deflection equations t
 
 ## CAD Modeling of the Motor Mount
 
+### These are the values that I used to help me create my motor mount.
+
+
+<img width="1588" height="734" alt="image (1)" src="https://github.com/user-attachments/assets/97399c7f-a70b-431f-8086-b7cd27828f41" />
+
 
 ### Using these values, I created a large rectangle, then extruded away a piece to form the base shape of my motor mount.
 
