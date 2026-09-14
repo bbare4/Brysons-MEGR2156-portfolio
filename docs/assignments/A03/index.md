@@ -68,3 +68,6 @@ During this assignment, I had just small struggles. My main struggle was figurin
 
 
 
+
+
+
