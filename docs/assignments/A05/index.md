@@ -46,6 +46,13 @@ After getting all of my values, I created orthogonal drawings for each situation
 <img width="725" height="679" alt="image" src="https://github.com/user-attachments/assets/d4099ea4-15b2-4247-9770-42611af11d9d" />
 
 
+## Lesson Learned 
+
+Based on my calculations, stiffness governed Part B's thickness. The stress calculation required a thickness of 0.104 in, while the stiffness calculation required 0.605 in. Stiffness required 0.501 in more thickness, so I would use at least 0.605 in to satisfy both requirements. This showed me that a part can be strong enough to support a load but still deform too much.  I carried Part C's length of 2.4964 in from the stress calculations into the stiffness calculations. Using this width changes the stiffness thickness from approximately 0.531 in to 0.629. This makes stiffness govern part C instead of stress. I assumed that the bracket would be made from aluminum 6061-T6 with a Young's modulus of 10,000,000 psi. If I used a material with a lower Young's modulus, the bracket would deform more under the same load, so the stiffness-controlled dimensions would need to increase.
+
+This assignment took me about 5-6 hours 
+
+
 
 
 
