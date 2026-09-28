@@ -46,9 +46,10 @@ Final Part
 
   This project took me about 4 hours from start to finish.
 
+  
+A6 Link
 
   <a [href="https://github.com/bbare4/Brysons-MEGR2156-portfolio/blob/main/docs/assignments/A06/index.md" target="_blank" rel="noopener noreferrer"](https://drive.google.com/drive/folders/1Hw78PBazVW7ZI0RpQRkpVloXvQF5elmI?usp=drive_link)>
-  A6 Assignment
 </a>
 
 
