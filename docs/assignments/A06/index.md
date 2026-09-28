@@ -1,4 +1,4 @@
-# A6 – [Topic]
+# A6 – Bracket
 
 ## Objective
 - Create a parametric model of your bracket from A5, as well as an engineering drawing.
