@@ -22,7 +22,7 @@ Next was to build part B, which was built by sketching a rectangular shape, then
 <img width="497" height="697" alt="Part B (sketch)" src="https://github.com/user-attachments/assets/b67822ab-46b4-4907-b481-6c38a4b36b08" />
 <img width="427" height="754" alt="Part B (extrude)" src="https://github.com/user-attachments/assets/bf24c07f-de11-4328-aaed-96069526a452" />
 
-After this was done next was the base or part C of the design. This was done by sketching on the top of part B while using a centerline to keep everything even and symmetrical.
+Next was part C, of the design. I did this by sketching on top of Part B and using a centerline to keep everything even and symmetrical.
 
 <img width="1346" height="741" alt="Part C " src="https://github.com/user-attachments/assets/8832db0b-6be9-49e5-ae4e-f13c730b2f1c" />
 <img width="1686" height="643" alt="Part C (extruded)" src="https://github.com/user-attachments/assets/0fddb379-5b69-4585-9a89-040006f1cffd" />
@@ -43,6 +43,8 @@ Final Part
 
 - One of the main things that I learned is how important tolerance is. In this project, if you don't account for tolerances, your part could fail and injure users.
 - One of the dimensions that I made tighter was the length of the B because if it's too loose, you risk the length not being able to contain the object you're trying to place onto the bracket. If I applied a tight tolerance to all measurements, it would require much more time, money, and equipment to handle certain dimensions, which would drive up the overall product cost.
+
+  This project took me about 4 hours from start to finish.
 
 
 
