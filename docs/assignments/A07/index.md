@@ -35,11 +35,11 @@ For design 3, I kept the root fillet that I created in the previous design, but 
 From Design 1 to Design 3, the finest mesh deflection dropped from 1.251 mm to 0.3884 mm; stress coverage was 2.89% between the last two meshes. Its safety factor was 3.67 versus the target safety factor of 4, and its mass was 24.1% above the baseline. Only design 3 passes the 7% stress convergence limit after 3 mesh attempts.
 
 # Learned 
-During this assignment, I learned how changing mesh size affects FEA results. Running each design with progressively finer meshes helped me check whether stress, deflection, and safety factor are converging before I start changing the geometry of my design. I also learned how to use Excel to organize all the calculations and my FEA results. While it took some time and some help from AI to set it up, it made it easy to track mesh sizes and element counts and compare my 3 designs.
+During this assignment, I learned how changing mesh size affects FEA results. Running each design with progressively finer meshes helped me check whether stress, deflection, and safety factor were converging before I started changing the geometry. Another thing I learned when adjusting the geometry is that sometimes what you think will decrease stress and deflection doesn't help as much as you expect, and then I had to come up with new ideas. I also learned how to use Excel to organize all the calculations and my FEA results. While it took some time and some help from AI to set it up, it made it easy to track mesh sizes and element counts and compare my 3 designs.
 
 # Time
 
-Overall, this assignment took me around 6-7 hours to complete from start to finish. I spent most of that time making changes to my design; I tried to keep it as original as possible without making a whole new product. Doing this probably made this assignment take longer.
+Overall, this assignment took me around 6-7 hours to complete from start to finish. I spent most of that time making changes to my design; I tried to keep it as original as possible without making a whole new product. That probably made the assignment take longer.
 
 
 
