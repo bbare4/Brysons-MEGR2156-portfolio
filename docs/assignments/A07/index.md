@@ -32,7 +32,7 @@ For design 3, I kept the root fillet that I created in the previous design, but 
 
 <img width="1180" height="266" alt="image" src="https://github.com/user-attachments/assets/ccd912d3-f521-4641-8891-090596ff348a" />
 
-From Design 1 to Design 3, the finest mesh deflection dropped from 1.251 mm to 0.3884 mm; stress coverage was 2.89% between the last two meshes. Its safety factor was 3.67 versus the target safety factor of 4, and its mass was 24.1% above the baseline. Only design 3 passes the 7% stress convergence limit after 3 mesh attempts.
+From Design 1 to Design 3, the finest mesh deflection dropped from 1.251 mm to 0.3884 mm; stress converaged with a 2.89% change between the last two meshes. Its safety factor was 3.67 versus the target safety factor of 4, and its mass was 24.1% above the baseline. Only design 3 passes the 7% stress convergence limit after 3 mesh attempts.
 
 # Learned 
 During this assignment, I learned how changing mesh size affects FEA results. Running each design with progressively finer meshes helped me check whether stress, deflection, and safety factor were converging before I started changing the geometry. Another thing I learned when adjusting the geometry is that sometimes what you think will decrease stress and deflection doesn't help as much as you expect, and then I had to come up with new ideas. I also learned how to use Excel to organize all the calculations and my FEA results. While it took some time and some help from AI to set it up, it made it easy to track mesh sizes and element counts and compare my 3 designs.
