@@ -42,7 +42,9 @@ During this assignment, I learned how changing mesh size affects FEA results. Ru
 Overall, this assignment took me around 6-7 hours to complete from start to finish. I spent most of that time making changes to my design; I tried to keep it as original as possible without making a whole new product. That probably made the assignment take longer.
 
 [Click here to Download Design 1 (.SLDPRT)](./A07-Design1.SLDPRT)
+
 [Click here to Download Design 2 (.SLDPRT)](./Bracket.SLDPRT)
+
 [Click here to Download Design 3 (.SLDPRT)](./Bracket.SLDPRT)
 
 
