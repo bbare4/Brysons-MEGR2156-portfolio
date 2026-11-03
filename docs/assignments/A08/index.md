@@ -19,13 +19,13 @@ For this part, the goal was to find the PV value, compare it to a table to selec
 
 ### Part 3 - Sketch
 
-I then sketched a basic design to use as my outline as I moved into the CAD process.
+Before starting the CAD model, I drew a basic sketch of the gearbox’s top and bottom halves. It gave me an outline for the housing shape and helped me plan where the gears, shafts, bearings, and mounting holes would go. I used the sketch as a guide while creating the 3D parts.
 
 <img width="712" height="392" alt="image" src="https://github.com/user-attachments/assets/2ed40efa-c731-4559-b477-8037f80f6c90" />
 
 ### CAD Work - 
 
-First, I downloaded all the gear and bearing files from McMaster-Carr, so I didn't have to go back for them.
+I downloaded the gears and bearings I selected from McMaster-Carr and brought their CAD files into my project. This let me use the components’ actual shapes and dimensions as I designed the shafts and gearbox housing around them.
 
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b5443f95-d301-4e26-bea8-c84c051112ac" />
 
@@ -36,7 +36,7 @@ First, I downloaded all the gear and bearing files from McMaster-Carr, so I didn
 <img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/483c0640-d62e-482f-a4c0-9228947673f7" />
 
 
-The next step is to design the shafts. Each shaft followed the same process, starting with the initial diameter circle, which was extruded to the assumed length of 1 in. After that, I added a 45-degree chamfer since these parts would be press-fit into the gears.
+Next, I modeled the input and output shafts. I created a circular sketch using the specified diameter for each shaft and extruded it to the required 1-inch length. I then added a 45-degree chamfer to the end that fits into the gear hub to help guide the shaft during press-fit assembly.
 
 ### Output Shaft: 
 
@@ -75,6 +75,9 @@ Finally, I will rotate the input shaft to confirm that it drives the output gear
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/38058675-7631-45b6-9258-0b3bd8d21c59" />
 
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/350ea6f0-741f-4d7f-a0a8-b2ecbe87e915" />
+
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/643128cb-2ace-48de-9a58-8c9b46f84167" />
+
 
 <img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f2e56a9d-dd97-4808-a0e8-cc307c979806" />
 
