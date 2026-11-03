@@ -44,7 +44,19 @@ The next step is to design the shafts. Each shaft followed the same process, sta
 
 <img width="375" height="200" alt="image" src="https://github.com/user-attachments/assets/879f0cc9-2743-4068-8622-b626f7bfcff6" />
 
+<img width="575" height="250" alt="image" src="https://github.com/user-attachments/assets/24f8fc89-3497-466d-9a7b-b0c8d7b43f85" />
+
+
 ### Input Shafts: 
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/346b71fa-3e90-4475-b9a6-81d8647950d7" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/53291660-b778-4519-aeed-456fad734eb7" />
+
+<img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/4237db1c-6d17-4b04-a6d6-636854eb1271" />
+
+
+
 
 
 
