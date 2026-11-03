@@ -59,14 +59,39 @@ The next step is to design the shafts. Each shaft followed the same process, sta
 
 Now it was finally time for me to create the gearbox. I started by creating the bottom half of the gearbox. I started with a 4" x 3" box and extruded it to allow enough clearance for the gears and shafts to spin and rotate freely. I then used lines to help me find the center of the extrusion and to determine the offset that I needed to put the hole for the shaft. I did this for both the top and bottom gearbox.
 
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/f93c3712-cd39-443a-a72d-ce9ad86337a6" />
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f93c3712-cd39-443a-a72d-ce9ad86337a6" />
+
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/e312e293-db40-4725-b2f5-33b8a52f491c" />
+
+### Final Part
+
+With the top and bottom halves of the gearbox housing completed, I can begin assembling the internal components. I will place each bearing in its housing seat, align the input and output shafts with the bearing bores, and fit the gears onto their respective shafts. I will position the gears so they mesh at the correct center distance and have clearance from the housing walls.
+
+Next, I will mate the shafts and bearings to keep them aligned and set the gear rotation relationship to the specified 24:9 ratio. Because the gears mesh externally, they should rotate in opposite directions. I will then bring the housing halves together and check that their mounting holes line up and the internal parts have room to move.
+
+Finally, I will rotate the input shaft to confirm that it drives the output gear smoothly, without binding or interference. Once the gears mesh and turn freely inside the closed housing, the gearbox assembly will be complete.
 
 
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/38058675-7631-45b6-9258-0b3bd8d21c59" />
+
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/350ea6f0-741f-4d7f-a0a8-b2ecbe87e915" />
+
+<img width="300" height="250" alt="image" src="https://github.com/user-attachments/assets/f2e56a9d-dd97-4808-a0e8-cc307c979806" />
+
+### Lessons Learned
+
+This project helped me understand that CAD modeling involves more than creating parts that look correct. The shafts, bearings, gears, and housing all have to fit together in the right positions. I learned that even a small clearance problem can cause parts to rub or gears to bind, so I need to plan room for the gears to rotate freely to avoid interference as I build the assembly.
+
+I also had to relearn the math used with gears. I reviewed how the 24:9 gear ratio relates the input and output speeds and torque, and how pitch diameters determine the distance between the gear shafts. That math helped me understand why the gears need to be positioned precisely to mesh. I learned that calculating the gear forces also matters when checking whether the shafts and bearings can support the design.
+
+The hardest part of the project was stacking the top and bottom halves of the gearbox after placing the parts inside them. It took several rounds of trial and error to align the shafts, bearings, and gears so the housing halves would fit together and the gears could mesh without hitting the housing.
+
+Overall, I learned to think about how parts work together while modeling them. Careful measurements, clearances, and assembly checks are just as important as making each individual part.
 
 
+This project took me about 10 Hours to complete from start to finish
 
 
-<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/38058675-7631-45b6-9258-0b3bd8d21c59" />
 
 
 
