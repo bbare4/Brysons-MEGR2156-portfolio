@@ -55,6 +55,21 @@ The next step is to design the shafts. Each shaft followed the same process, sta
 
 <img width="550" height="300" alt="image" src="https://github.com/user-attachments/assets/4237db1c-6d17-4b04-a6d6-636854eb1271" />
 
+### Gearbox Shell and Final 
+
+Now it was finally time for me to create the gearbox. I started by creating the bottom half of the gearbox. I started with a 4" x 3" box and extruded it to allow enough clearance for the gears and shafts to spin and rotate freely. I then used lines to help me find the center of the extrusion and to determine the offset that I needed to put the hole for the shaft. I did this for both the top and bottom gearbox.
+
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/f93c3712-cd39-443a-a72d-ce9ad86337a6" />
+
+
+
+
+
+
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/38058675-7631-45b6-9258-0b3bd8d21c59" />
+
+
+
 
 
 
