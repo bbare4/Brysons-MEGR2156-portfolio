@@ -1,13 +1,61 @@
 # A8 – Gears
 
-## Objective
+### Objective
+Design a gearbox which can be assembled and disassembled. The spur gears have a gear ratio of 24:9 and are listed in the resource section. The output gear torque and speed are to be 1.25 in-lbf and 1100 rpm relative. The input (pinion,power-transmission) and output (gear, short shaft) shaft diameters are .125 and .25 inches respectively and each have a length of 1 inch. Use the appropriate equations in the Machinery’s Handbook for empirical units. The critical features of the gearbox include the shafts, and the journal bearings.
+
+### Part 1 - Shaft Design
+
+For this Part of the assignment, I was tasked with designing the input and output shafts for the gearbox with the provided dimensions. 
+
+<img width="1524" height="836" alt="image" src="https://github.com/user-attachments/assets/ed9ee395-5bfd-44b0-9ba8-79113341c757" />
+
+<img width="1528" height="820" alt="image" src="https://github.com/user-attachments/assets/2f59c9dd-7335-4f19-a14f-5f6dbeb4974f" />
+
+### Part 2 - Journal Bearing
+
+For this part, the goal was to find the PV value, compare it to a table to select the proper material, and determine the thickness.
+
+<img width="1528" height="752" alt="image" src="https://github.com/user-attachments/assets/2b02eb85-42a1-49d7-a9b8-d54bbe551e4c" />
+
+### Part 3 - Sketch
+
+I then sketched a basic design to use as my outline as I moved into the CAD process.
+
+<img width="712" height="392" alt="image" src="https://github.com/user-attachments/assets/2ed40efa-c731-4559-b477-8037f80f6c90" />
+
+### CAD Work - 
+
+First, I downloaded all the gear and bearing files from McMaster-Carr, so I didn't have to go back for them.
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b5443f95-d301-4e26-bea8-c84c051112ac" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9c04f43d-9dc7-4578-a74c-03476e3b65c2" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/b4e68fe5-9117-4293-b829-4273a3d3ee61" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/483c0640-d62e-482f-a4c0-9228947673f7" />
 
 
-## Analyze
+The next step is to design the shafts. Each shaft followed the same process, starting with the initial diameter circle, which was extruded to the assumed length of 1 in. After that, I added a 45-degree chamfer since these parts would be press-fit into the gears.
+
+### Output Shaft: 
+
+<img width="450" height="200" alt="image" src="https://github.com/user-attachments/assets/ddbf8377-a90c-4358-ac9f-71f761e66b8a" />
+
+<img width="375" height="200" alt="image" src="https://github.com/user-attachments/assets/879f0cc9-2743-4068-8622-b626f7bfcff6" />
+
+### Input Shafts: 
 
 
-## Decide
 
 
-## Communicate
+
+
+
+
+
+
+
+
+
 
