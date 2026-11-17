@@ -16,6 +16,8 @@ Next, I researched McMaster-Carr’s recommended nuts and flanges for the lead s
 
 <img width="954" height="1148" alt="image" src="https://github.com/user-attachments/assets/0c267680-b41b-4dd6-b677-a97170beb64a" />
 
+### Total Time (Bryson) = 2.5 hrs
+
 ## Crosshead (Nolan)
 
 The project parameters allowed us to design a crosshead with a lot of freedom. I did some research, and found that a 300mm crosshead (length) would work nicely. I then had to choose the material and thickness of the crosshead. I chose ASTM A36 steel for its high stiffness and a base width of 60mm. I then modeled the crosshead as a beam supported at both ends with a load in the center (as explained in lecture). I then found where the shear force = 0 (max moment location) and then found the max moment equation to equal PL/4. 
@@ -88,6 +90,28 @@ For the handsketch, I only had one small decision to make. I made the holes cut 
     </tr>
   </tbody>
 </table>
+
+### Total Time (Nolan) = 2.5 hrs
+
+## Parametric Modeling (Brandon)
+
+I began by using the calculations that Nolan came up with to build my equation sheet. In the instructions we were given some unknowns, but the rest Nolan had to solve and I had to use them for the CAD model. By using his calculations, it made it very simple to make my equations on SolidWorks.
+
+<img width="627" height="187" alt="image" src="https://github.com/user-attachments/assets/f2b679fa-ae20-4634-ac4f-b1bca977a180" />
+
+After completing the equations and knowing the values I was able to begin my sketch. Below is an image of how I began modeling the cross body. 
+
+<img width="624" height="370" alt="image" src="https://github.com/user-attachments/assets/a75946ae-2d01-4a40-8e66-191169850a2d" />
+
+After sketching the part, I extruded it to the correct measurements given to me by Nolan. 
+
+<img width="639" height="367" alt="image" src="https://github.com/user-attachments/assets/f2122827-9c28-4ce6-95f7-dc34a21f0e14" />
+
+
+
+
+
+
 
 
 
