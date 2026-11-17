@@ -107,6 +107,32 @@ After sketching the part, I extruded it to the correct measurements given to me 
 
 <img width="639" height="367" alt="image" src="https://github.com/user-attachments/assets/f2122827-9c28-4ce6-95f7-dc34a21f0e14" />
 
+Once I finished the crosshead, I put the frame together and began to assemble it. 
+
+<img width="622" height="563" alt="image" src="https://github.com/user-attachments/assets/9bcb626c-0b5a-44a6-be8e-8ddd6d8fc6c9" />
+
+Below is the completed assembly. Everything worked very well and was completed as instructed. 
+
+<img width="476" height="697" alt="image" src="https://github.com/user-attachments/assets/62ece2e8-ed5c-4c13-9f01-c0762849f89e" />
+
+Total time (Brandon) = 5 hrs
+
+Lessons Learned
+
+Modeling the lead screw and crosshead helped me better understand how individual mechanical components work together in an assembly. I learned the importance of using accurate dimensions, aligning components properly, and making sure the threads and mating features fit together correctly. One challenge was creating the threaded lead screw and ensuring the crosshead could move along it as intended. This project improved my CAD modeling skills and taught me to pay closer attention to detail when designing parts that must interact with one another. Overall, I gained a better understanding of mechanical assemblies and how proper modeling can help ensure that a design functions as expected.
+
+
+## CAD Files
+
+The full CAD files for this project are available here:
+
+[Google Drive CAD Folder](https://drive.google.com/drive/folders/1nQlM7cM3rbcqljRFo6o5Ii-l7HKpFuqM?usp=drive_link)
+
+
+
+
+
+
 
 
 
