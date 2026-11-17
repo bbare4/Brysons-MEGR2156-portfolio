@@ -56,7 +56,7 @@ For the handsketch, I only had one small decision to make. I made the holes cut 
       <td style="border: 1px solid black; padding: 8px;">Lead Screw</td>
       <td style="border: 1px solid black; padding: 8px;">$28.64</td>
       <td style="border: 1px solid black; padding: 8px;">$54.56</td>
-      <td style="border: 1px solid black; padding: 8px;"><a href="(https://www.mcmaster.com/98940A305/)">Link</a></td>
+      <td style="border: 1px solid black; padding: 8px;"><a href="https://www.mcmaster.com/98940A305/">Link</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 8px;">2</td>
@@ -64,7 +64,7 @@ For the handsketch, I only had one small decision to make. I made the holes cut 
       <td style="border: 1px solid black; padding: 8px;">Flange Nut</td>
       <td style="border: 1px solid black; padding: 8px;">$178.60</td>
       <td style="border: 1px solid black; padding: 8px;">$357.20</td>
-      <td style="border: 1px solid black; padding: 8px;"><a href="(https://www.mcmaster.com/97790A110/)">Link</a></td>
+      <td style="border: 1px solid black; padding: 8px;"><a href="https://www.mcmaster.com/97790A110/">Link</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 8px;">3</td>
@@ -72,7 +72,7 @@ For the handsketch, I only had one small decision to make. I made the holes cut 
       <td style="border: 1px solid black; padding: 8px;">Head Screw</td>
       <td style="border: 1px solid black; padding: 8px;">$10.02 <small>(50 ct.)</small></td>
       <td style="border: 1px solid black; padding: 8px;">$10.02</td>
-      <td style="border: 1px solid black; padding: 8px;"><a href="(https://www.mcmaster.com/92316A540/)">Link</a></td>
+      <td style="border: 1px solid black; padding: 8px;"><a href="https://www.mcmaster.com/92316A540/">Link</a></td>
     </tr>
     <tr>
       <td style="border: 1px solid black; padding: 8px;">4</td>
@@ -80,7 +80,7 @@ For the handsketch, I only had one small decision to make. I made the holes cut 
       <td style="border: 1px solid black; padding: 8px;">Frame</td>
       <td style="border: 1px solid black; padding: 8px;">$125.63</td>
       <td style="border: 1px solid black; padding: 8px;">$125.63</td>
-      <td style="border: 1px solid black; padding: 8px;"><a href=(https://www.mcmaster.com/47065T882-47065T752/)">Link</a></td>
+      <td style="border: 1px solid black; padding: 8px;"><a href="https://www.mcmaster.com/47065T882-47">Link</a></td>
     </tr>
     <tr style="background-color: #ccc;">
       <td colspan="5" style="border: 1px solid black; padding: 8px; text-align: right; font-size: 1.4em; font-weight: bold;">TOTAL</td>
