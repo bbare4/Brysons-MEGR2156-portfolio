@@ -30,7 +30,7 @@ We selected the McMaster-Carr 2764K425 coupler because its 14mm and ½ in bores 
 <img width="1100" height="499" alt="image" src="https://github.com/user-attachments/assets/41a74f54-44ee-40dc-8d0b-07a55f3b65c4" />
 <img width="939" height="635" alt="image" src="https://github.com/user-attachments/assets/415d65ef-04af-48be-a5a3-56c6007566e3" />
 
-### Total time Bryson: 5 hrs
+### Total time Bryson: 5 Hours
 
 ## Analyze and design a Frame - Nolan
 
@@ -106,7 +106,24 @@ I got back a calculated safety factor of 12. This was way above the safety facto
 
 ### Total time Nolan: 2 hours 
 
+## Design floating Bearing Mount - Brandon Hudson
+I first started designing the motor mount with the dimensions Bryson came up with in the math above. Below is the sketch of the motor mount. 
 
+<img width="686" height="509" alt="image" src="https://github.com/user-attachments/assets/90fbd030-a715-4c76-907e-f9a22fdcfefb" />
+
+After doing the sketch I completed the extrude which was a total of 10mm. I then created the 4 holes on the mount and dimensioned them to the correct dimensions given to me by Bryson.  Below is the motor mount after this extrude and the holes inserted. 
+
+<img width="692" height="474" alt="image" src="https://github.com/user-attachments/assets/94934116-6e7d-4d5d-b9ab-e8cea958266c" />
+
+After completing the extrude and holes I finished up the motor mount. Below is the final product of the motor mount. 
+
+<img width="693" height="468" alt="image" src="https://github.com/user-attachments/assets/5d9e6c64-ecf2-43e2-8ca7-0dd67abef95f" />
+
+I then moved onto the assembly by downloading the couplings, motor, and screws needed to fully assemble the motor and frame. I got all the parts needed and began assembling the finished product. Below is the final assembly. 
+
+<img width="688" height="762" alt="image" src="https://github.com/user-attachments/assets/01a0bda6-9626-4dd2-9b8d-274c7790dfcf" />
+
+<img width="690" height="702" alt="image" src="https://github.com/user-attachments/assets/3caf58d1-7ec7-4f3a-9b02-e831138672ac" />
 
 ## Bill of materials and labor costs - Brandon Hudson
 
@@ -121,7 +138,17 @@ I got back a calculated safety factor of 12. This was way above the safety facto
 | 47065T882 | 1 | Frame | $125.63 | $125.63 | [McMaster-Carr](https://www.mcmaster.com/47065T882-47065T752/) |
 | **Total Cost** | | | | **$1,190.72** | |
 
+## Lessons Learned – Engineering Design
 
+Throughout this project, I improved my CAD modeling and mechanical assembly skills by designing a motor mount and developing a complete assembly that included motors, couplings, bolts, and mounting components. A major part of the project involved creating and modifying CAD geometry to ensure that all components fit together accurately. I gained experience working with individual part models, positioning components, and using assembly constraints to establish the correct relationships between parts.
+
+One of the more challenging aspects was designing portions of the supporting frame to ensure the motor would fit correctly. I had to determine the necessary dimensions, create mounting features, position holes, and modify the frame geometry to accommodate the motor mounts and other components. This required repeatedly checking component clearances, alignment, and positioning to ensure the assembly functioned as an integrated mechanical design.
+
+This project taught me the importance of developing accurate and organized CAD models while considering how individual components interact within a larger assembly. I also gained a better understanding of how to approach custom part design, troubleshoot assembly interference, and make dimensional modifications without compromising the overall design. Overall, the project strengthened my ability to translate mechanical design requirements into detailed 3D CAD models and complete assemblies.
+
+### Total time Brandon: 8 hours
+
+## Cad Files
 
 
 
