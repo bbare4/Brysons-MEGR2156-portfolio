@@ -8,7 +8,7 @@ The final work will include CAD models of the engineered parts, supporting sketc
 
 <img width="352" height="452" alt="image" src="https://github.com/user-attachments/assets/32f8cb7b-e6f8-40a3-a5d7-6e4c7517d258" />
 
-## Motor Selection and Attachments -  (Bryson Bare)
+## Motor Selection and Attachments -  (Bryson)
 
 We selected the MOONS’ AM34HD2403-07 hybrid stepper motor because the tester must move slowly while pulling a high load. The stepper motor can provide controlled movement at low speeds, and this model has a listed holding torque of 9.4 N · m. We assumed that one motor would drive each lead screw, so each screw carries half of the tester's 2 kN load. The holding torque helped us identify a candidate, but we use the speed-torque curve to check the torque while the motor is running.
 
@@ -32,7 +32,7 @@ We selected the McMaster-Carr 2764K425 coupler because its 14mm and ½ in bores 
 
 ### Total time Bryson: 5 Hours
 
-## Analyze and design a Frame - Nolan
+## Analyze and design a Frame - (Nolan)
 
 For analyzing the frame, I was tasked with running an FEA for the top of the frame and the vertical components of the frame, to ensure the frame will have very low deflections. 
 
@@ -106,7 +106,7 @@ I got back a calculated safety factor of 12. This was way above the safety facto
 
 ### Total time Nolan: 2 hours 
 
-## Design floating Bearing Mount - Brandon Hudson
+## Design floating Bearing Mount - (Brandon Hudson)
 I first started designing the motor mount with the dimensions Bryson came up with in the math above. Below is the sketch of the motor mount. 
 
 <img width="686" height="509" alt="image" src="https://github.com/user-attachments/assets/90fbd030-a715-4c76-907e-f9a22fdcfefb" />
@@ -125,7 +125,7 @@ I then moved onto the assembly by downloading the couplings, motor, and screws n
 
 <img width="690" height="702" alt="image" src="https://github.com/user-attachments/assets/3caf58d1-7ec7-4f3a-9b02-e831138672ac" />
 
-## Bill of materials and labor costs - Brandon Hudson
+## Bill of materials and labor costs - (Brandon Hudson)
 
 | Item # | Quantity | Name | Cost/item | Cost | Link |
 |:---|:---:|:---|---:|---:|:---|
